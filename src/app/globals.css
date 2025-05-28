@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section{
+    @apply py-24 md:py-32 lg:py-40
+}
+
+*,
+*::before,
+*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.line{
+    @apply overflow-hidden;
+}
+
+.word{
+    @apply translate-y-full;
+}

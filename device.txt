@@ -1,0 +1,5 @@
+polypane for different screen sizes that is; screens: {
+                                                        sm: "375px",
+                                                        md: "768px",
+                                                        lg: "1200px", 
+                                                    }
