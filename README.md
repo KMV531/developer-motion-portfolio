@@ -5,7 +5,7 @@
 
 🎬 **A cutting-edge portfolio** that brings your development skills to life through fluid animations and interactive elements.
 
-![DevMotion Screenshot](./public/screenshot.png)
+![DevMotion Screenshot](./src/assets/screenshot.png)
 
 ## ✨ Motion Features
 
